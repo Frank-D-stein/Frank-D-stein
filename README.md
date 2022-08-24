@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+ UTK Computer Science Student with the goal of hopefully graduating in 2024 -- <3 
 <!--
 **Frank-D-stein/Frank-D-stein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
